@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Application 2 </title>
+<style>
+
+table{
+    background:#00FFFF;
+    margin:auto;
+}
+
+</style>
+
+</head>
+<body>
+<h3 align="center"> <u>Project Management </u> </h3>
+
+
+<form>
+<table>
+<tr>
+<td><p>
+<b> Project Name </b>
+</td>
+<td>
+<input type="text" placeholder="Project name"name">
+
+</td>
+<tr>
+<td> <p>
+<b>Assined To <b>
+</td>
+<td>
+ <select>
+
+  <option> Er Merry Petision </option>
+ <option> Er Merry Petision </option>
+ <option> Er Merry Petision </option>
+ <option> Er Merry Petision </option>
+ </select>
+   
+</td>
+
+
+<tr>
+<td><p>
+<b>Start Date <b>
+</td>
+<td>
+ <input type="date" name" > 
+
+</td>
+
+<p>
+<tr>
+<td>
+ <b>End Date <b>
+
+</td>
+<td><p>
+ <input type="date"name"> </p>
+
+</td>
+
+<tr>
+<td><p>
+
+ <b>Priority <b>
+
+</td>
+<td><p>
+<input type="radio" name="priority"> <b>High </b>
+<input type="radio" name="priority"> <b>Average </b>
+<input type="radio" name="priority"> <b> Low </b>
+</td>
+<tr>
+<td><p>
+
+ <b>Description <b>
+</td>
+<td>
+
+<textarea row="4" col="15"></textarea>
+
+
+</td>
+<tr>
+
+<td>
+
+<input type="submit" value="submit">
+
+<input type="Reset" value="Reset">
+
+</td>
+</tr>
+
+</tr>
+
+</tr>
+</tr>
+</tr>
+</tr>
+</tr>
+</table>
+</form>
+</body>
+
+</html>
